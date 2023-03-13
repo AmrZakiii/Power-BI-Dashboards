@@ -10,6 +10,6 @@ This repository contains a variety of Power BI projects and dashboards that were
 
 2- SuperStore: 
 
-! [SuperStore Dashboard](https://github.com/AmrZakiii/Power-BI-Dashboards/blob/main/SuperStore%20Dashboard.png)
+![SuperStore Dashboard](https://github.com/AmrZakiii/Power-BI-Dashboards/blob/main/SuperStore%20Dashboard.png)
 
 I hope that these projects and dashboards will help you to better understand and visualize your data. If you have any questions or feedback, please feel free to reach out to me. Thank you for visiting my repository!
