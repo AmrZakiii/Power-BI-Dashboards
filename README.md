@@ -6,6 +6,6 @@ This repository contains a variety of Power BI projects and dashboards that were
 
 1- Data Professions Survey: 
 
-![Data Professions Survey Dashboard](DataSurvey Dashboard.png)
+![Data Professions Survey Dashboard](https://github.com/AmrZakiii/Power-BI-Dashboards/blob/main/DataSurvey%20Dashboard.png)
 
 2- SuperStore: 
